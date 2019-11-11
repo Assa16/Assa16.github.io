@@ -141,6 +141,9 @@ width:33%;
 padding-right: 10px;
 text-align: center;
 }
+figcaption{
+    padding-top: 30px;
+}
 .margin{
 padding-top:30px;
 padding-bottom:30px;
